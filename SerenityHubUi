@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KnoxScript1/Anime-Dice/refs/heads/main/Serenity-Hub"))()
